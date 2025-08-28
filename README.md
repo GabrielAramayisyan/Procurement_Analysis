@@ -8,7 +8,7 @@ During my volunteer experience, the company sought to optimize its procurement s
 ---
 
 ## Problem Statement
-- Identify the cheapest suppliers. Make a list of suppliers, products, prices, and the date we bought them.
+- Identify the cheapest suppliers. Make a list of suppliers, products, prices, and the date we bought the products.
 - Calculate the savings. Compare the minimum and average prices.
 - Separate the products that have either risen or decreased. Visualize them for clarity and easier research.
 
