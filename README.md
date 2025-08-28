@@ -23,12 +23,12 @@ During my volunteer experience, the company sought to optimize its procurement s
 ---
 
 ## Project Files  
-- [Power BIDashboard](Power_BI/Power_BI_Report.pbix)
-- [PythonCode](Python_Code.ipynb)
+- [Power BI Dashboard](Power_BI/Power_BI_Report.pbix)
+- [Python Code](Python/Python_Code.ipynb)
 - [Cleaned Data and Excel file](Results)
-- [Raw Data](Sample_Data.csv)
+- [Raw Data](sample_dataset.xlsx)
 
 ---
 
 ![Price Fluctuation Dashboard](Power_BI/Screenshots/Price_Fluctuation.png)
-![Price Increase or Decrease](Power_BI/Screenshots/Price_Increase_Decrease.png)
+![Price Increase or Decrease](Power_BI/Screenshots/Price_Increas_Decreas.png)
