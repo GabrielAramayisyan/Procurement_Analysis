@@ -34,7 +34,5 @@ During my volunteer experience, the company sought to optimize its procurement s
 ---
 
 ![Price Fluctuation Dashboard](Power_BI/Screenshots/Price_Fluctuation.png)
-
----
-
+---------------------------------|------------------------------------------
 ![Price Increase or Decrease](Power_BI/Screenshots/Price_Increas_Decreas.png)
