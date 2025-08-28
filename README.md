@@ -13,10 +13,12 @@ During my volunteer experience, the company sought to optimize its procurement s
 - Separate the products that have either risen or decreased. Visualize them for clarity and easier research.
 
 ## Workflow
-1. **Data Cleaning (using Python)**
+1. **Privacy of the Company**
+   None of the files contain any information that the company gave me. I created a sample dataset to keep the company's data private.
+3. **Data Cleaning (using Python)**
    - Removed duplicates and empty rows using Python (pandas). There were only a few empty rows, that's why by deleting them I wouldn't loose any valuable information.
    - Removed empty spaces, non-breaking spaces, and 0-width spaces. Removed commas, stripped, and made everything uppercased for consistency. This part was important because the data was imported from an external source and was quite messy.  
-3. **Visualization in Power BI**  
+4. **Visualization in Power BI**  
    - Built interactive dashboards for price fluctuations. Added filters for date, supplier, and product to view each product's price separately.
    - Used DAX to create measures such as the distinct count of suppliers and products, average price for each product.
 
@@ -31,4 +33,7 @@ During my volunteer experience, the company sought to optimize its procurement s
 ---
 
 ![Price Fluctuation Dashboard](Power_BI/Screenshots/Price_Fluctuation.png)
+
+---
+
 ![Price Increase or Decrease](Power_BI/Screenshots/Price_Increas_Decreas.png)
