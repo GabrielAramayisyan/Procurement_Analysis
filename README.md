@@ -21,6 +21,7 @@ During my volunteer experience, the company sought to optimize its procurement s
 4. **Visualization in Power BI**  
    - Built interactive dashboards for price fluctuations. Added filters for date, supplier, and product to view each product's price separately.
    - Used DAX to create measures such as the distinct count of suppliers and products, average price for each product.
+   - Gave instructions on how to use the slicers properly for research.
 
 ---
 
