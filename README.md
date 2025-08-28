@@ -14,7 +14,7 @@ During my volunteer experience, the company sought to optimize its procurement s
 
 ## Workflow
 1. **Privacy of the Company**
-   None of the files contain any information that the company gave me. I created a sample dataset to keep the company's data private.
+   - None of the files contain any information that the company gave me. I created a sample dataset to keep the company's data private.
 3. **Data Cleaning (using Python)**
    - Removed duplicates and empty rows using Python (pandas). There were only a few empty rows, that's why by deleting them I wouldn't loose any valuable information.
    - Removed empty spaces, non-breaking spaces, and 0-width spaces. Removed commas, stripped, and made everything uppercased for consistency. This part was important because the data was imported from an external source and was quite messy.  
