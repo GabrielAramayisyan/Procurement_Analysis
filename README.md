@@ -3,7 +3,7 @@
 ### Project Overview
 During my volunteer experience, the company sought to optimize its procurement spending. I analyzed their procurement data (Supplier, Product, Price, and Date) to identify the cheapest suppliers, compared the average and the minimum prices of the products, and calculated how much the company can save both in percentage and currency if the products are bought from the cheapest suppliers only. Visualized price fluctuations and separated the products that had either risen or decreased for easier research and understanding.
 
-**Tools Used:** Python (pandas, numpy), Power BI
+**Tools Used:** Python (pandas, NumPy), Power BI
 
 ---
 
